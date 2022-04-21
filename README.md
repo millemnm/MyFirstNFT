@@ -11,4 +11,4 @@ Navigate to the directory this project is located in
 Type this into your terminal: "npx hardhat run scripts/run.js"
 ```
 Citations:
-I got almost all of the information I needed to write this code from Buildspace.so under their "Mint an NFT" project.
+I got almost all of the information I needed to write this code from app.Buildspace.so under their "Mint an NFT" project.
