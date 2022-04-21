@@ -1,5 +1,5 @@
 # Minting My First NFT and Smart Contract
-Created by Max Miller
+Max Miller
 
 This project will upload a test smart contract along with an associated NFT image of my Girlfriend and I walking through Central Park to a virtual Blockchain Hosted locally on your computer.
 
